@@ -1,5 +1,7 @@
 # Wildfire-Insights
+
 **Project Name: Wildfire Data Analysis**
+
 **Description:**
 This project analyzes wildfire data from California to find patterns and trends.
 
